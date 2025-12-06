@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .IMMOBILIEN one-word domains still available to buy.
 
-This dataset contains 4,843 .IMMOBILIEN one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,844 .IMMOBILIEN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.IMMOBILIEN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immobilien-oneword-domains&utm_content=description.top) (4,844) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.IMMOBILIEN one word d
 | abatic.immobilien     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.immobilien    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.immobilien   | available | 50       | 1%     | 8      |           |         |         |
-| abc.immobilien        | available | 102      | 41%    | 3      |           |         |         |
+| abc.immobilien        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.immobilien  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.immobilien  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.immobilien | available | 56       | 1%     | 10     |           |         |         |
