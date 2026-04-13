@@ -66,12 +66,12 @@ print(df.head())
 | ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | cloud.immobilien        | available | $43.98    | —             | 70             | 59     | 5      | namecheap           |
 | gold.immobilien         | resell    | —         | —             | 72             | 99     | 4      | Dynadot Inc         |
-| free.immobilien         | premium   | $250      | $250          | 88             | 59     | 4      | name.com            |
+| free.immobilien         | premium   | $250      | $250          | 88             | 57     | 4      | name.com            |
 | live.immobilien         | available | $14.99    | $48.99        | 108            | 56     | 4      | name.com            |
 | local.immobilien        | resell    | —         | —             | 102            | 53     | 5      | Spaceship, Inc.     |
 | abc.immobilien          | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap           |
 | data.immobilien         | available | $43.98    | —             | 70             | 56     | 4      | namecheap           |
-| digital.immobilien      | resell    | —         | —             | 100            | 50     | 7      | NameCheap, Inc.     |
+| digital.immobilien      | resell    | —         | —             | 100            | 49     | 7      | NameCheap, Inc.     |
 | all.immobilien          | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com            |
 | good.immobilien         | available | $14.99    | $48.99        | 82             | 55     | 4      | name.com            |
 | bio.immobilien          | resell    | —         | —             | 78             | 47     | 3      | Cronon GmbH         |
