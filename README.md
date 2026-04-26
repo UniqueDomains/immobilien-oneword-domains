@@ -1,22 +1,22 @@
-# Available .IMMOBILIEN One-Word Domains (9,718)
+# Available .IMMOBILIEN One-Word Domains (12,160)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C719%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C718%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C160%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .immobilien one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .immobilien one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,160 domains** on the canonical page below.
 
-**Public extract:** 9,719 rows · **Live catalog:** 9,718 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,160 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/immobilien`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .IMMOBILIEN one-word d
 
 ### Files
 
-- `immobilien.csv` — public CSV extract (9,719 rows)
-- `immobilien.json` — public JSON extract (9,719 rows)
+- `immobilien.csv` — public CSV extract (1,000 rows)
+- `immobilien.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| cloud.immobilien        | available | $43.98    | —             | 70             | 59     | 5      | namecheap           |
-| gold.immobilien         | resell    | —         | —             | 72             | 99     | 4      | Dynadot Inc         |
-| free.immobilien         | premium   | $250      | $250          | 88             | 57     | 4      | name.com            |
-| live.immobilien         | available | $14.99    | $48.99        | 108            | 56     | 4      | name.com            |
-| local.immobilien        | resell    | —         | —             | 102            | 53     | 5      | Spaceship, Inc.     |
-| abc.immobilien          | premium   | $1,040    | $1,040        | 102            | 50     | 3      | namecheap           |
-| data.immobilien         | available | $43.98    | —             | 70             | 56     | 4      | namecheap           |
-| digital.immobilien      | resell    | —         | —             | 100            | 49     | 7      | NameCheap, Inc.     |
-| all.immobilien          | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com            |
-| good.immobilien         | available | $14.99    | $48.99        | 82             | 55     | 4      | name.com            |
-| bio.immobilien          | resell    | —         | —             | 78             | 47     | 3      | Cronon GmbH         |
-| property.immobilien     | premium   | $128.70   | $128.70       | 90             | 39     | 8      | namecheap           |
-| zero.immobilien         | available | $14.99    | $48.99        | 112            | 53     | 4      | name.com            |
-| elite.immobilien        | resell    | —         | —             | 90             | 43     | 5      | OVH SAS             |
-| about.immobilien        | premium   | $1,000    | $1,000        | 94             | 37     | 5      | name.com            |
-| business.immobilien     | available | $43.98    | —             | 100            | 53     | 8      | namecheap           |
-| club.immobilien         | resell    | —         | —             | 94             | 39     | 4      | NameSilo, LLC       |
-| construction.immobilien | premium   | $128.70   | $128.70       | 66             | 30     | 12     | namecheap           |
-| art.immobilien          | available | $43.98    | —             | 90             | 52     | 3      | namecheap           |
-| snow.immobilien         | resell    | —         | —             | 66             | 35     | 4      | Tucows Domains Inc. |
+| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| agents.immobilien       | available | $14.99    | —             | 56             | 50     | 6      | name.com  |
+| online.immobilien       | premium   | $1,000    | —             | 70             | 62     | 7      | name.com  |
+| cars.immobilien         | available | $14.99    | —             | 66             | 47     | 4      | name.com  |
+| houses.immobilien       | premium   | $123.75   | —             | 66             | 18     | 6      | name.com  |
+| Tools.immobilien        | available | $43.98    | —             | 56             | 40     | 5      | namecheap |
+| prices.immobilien       | premium   | $123.75   | —             | 51             | 15     | 6      | name.com  |
+| matcha.immobilien       | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
+| lets.immobilien         | available | $14.99    | —             | 77             | 39     | 4      | name.com  |
+| justin.immobilien       | available | $14.99    | —             | 58             | 38     | 7      | name.com  |
+| neuroscience.immobilien | available | $14.99    | —             | 80             | 37     | 12     | name.com  |
+| tokens.immobilien       | available | $14.99    | —             | 51             | 36     | 6      | name.com  |
+| homes.immobilien        | available | $14.99    | —             | 86             | 34     | 5      | name.com  |
+| tickets.immobilien      | available | $14.99    | —             | 64             | 34     | 7      | name.com  |
+| spectra.immobilien      | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
+| etc.immobilien          | available | $14.99    | —             | 58             | 34     | 3      | name.com  |
+| Cats.immobilien         | available | $43.98    | —             | 59             | 33     | 4      | namecheap |
+| solutions.immobilien    | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
+| videos.immobilien       | available | $14.99    | —             | 52             | 30     | 6      | name.com  |
+| popup.immobilien        | available | $14.99    | —             | 84             | 29     | 6      | name.com  |
+| quotes.immobilien       | available | $14.99    | —             | 58             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,719-row public sample | 9,718 live domains                               |
+| 1,000-row public sample | 12,160 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
