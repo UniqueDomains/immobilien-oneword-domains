@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .immobilien one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,699 domains · **Median ask:** $19.46 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/immobilien`  
 **Best for:** founders, investors, studios
 
@@ -82,8 +82,8 @@ print(df.head())
 | videos.immobilien       | available | $14.99    | —             | 52             | 30     | 6      | name.com  |
 | quotes.immobilien       | available | $14.99    | —             | 58             | 29     | 6      | name.com  |
 | KFC.immobilien          | available | $43.98    | —             | 74             | 27     | 3      | namecheap |
-| traders.immobilien      | available | $14.99    | —             | 60             | 26     | 7      | name.com  |
 | doctors.immobilien      | available | $14.99    | —             | 56             | 26     | 7      | name.com  |
+| traders.immobilien      | available | $14.99    | —             | 60             | 25     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
