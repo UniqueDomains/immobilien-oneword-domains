@@ -1,10 +1,10 @@
-# Available .IMMOBILIEN One-Word Domains (31,537)
+# Available .IMMOBILIEN One-Word Domains (33,069)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C537%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C069%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .immobilien one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,537 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,069 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,537 domains · **Median ask:** $31.38 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 33,069 domains · **Median ask:** $31.48 · **High-demand under $2,500:** 6
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/immobilien`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| policy.immobilien   | available | $29.20    | $29.20        | high           | low    | 6      | cloudflare |
+| stuff.immobilien    | available | $39.98    | $43.98        | high           | low    | 5      | namecheap  |
+| destiny.immobilien  | available | $39.98    | $43.98        | high           | low    | 7      | namecheap  |
+| barbecue.immobilien | available | $37.99    | $37.99        | high           | low    | 8      | namesilo   |
+| eastern.immobilien  | available | $39.98    | $43.98        | high           | low    | 7      | namecheap  |
 | aaa.immobilien      | available | $30.22    | $30.22        | high           | medium | 3      | spaceship  |
 | abc.immobilien      | premium   | $854      | $854          | high           | medium | 3      | namesilo   |
 | abs.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
@@ -72,18 +77,13 @@ print(df.head())
 | istanbul.immobilien | premium   | $242      | $242          | high           | low    | 8      | namesilo   |
 | aps.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
 | ccd.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
+| cnt.immobilien      | available | $30.22    | $30.22        | high           | low    | 3      | spaceship  |
 | csf.immobilien      | available | $39.98    | $43.98        | high           | low    | 3      | namecheap  |
 | des.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
+| eca.immobilien      | available | $29.20    | $29.20        | high           | low    | 3      | cloudflare |
 | eda.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
 | fan.immobilien      | available | $37.99    | $37.99        | high           | medium | 3      | namesilo   |
 | gip.immobilien      | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo   |
-| hag.immobilien      | available | $37.99    | $37.99        | high           | low    | 3      | namesilo   |
-| iaa.immobilien      | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo   |
-| ige.immobilien      | available | $30.22    | $30.22        | medium         | low    | 3      | spaceship  |
-| igg.immobilien      | available | $29.20    | $29.20        | high           | low    | 3      | cloudflare |
-| isp.immobilien      | available | $8.24     | $30.38        | high           | low    | 3      | porkbun    |
-| jfk.immobilien      | available | $8.24     | $30.38        | high           | low    | 3      | porkbun    |
-| lui.immobilien      | available | $37.99    | $37.99        | medium         | low    | 3      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,537 live domains                        |
+| 1,000-row public sample | 33,069 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMOBILIEN One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
